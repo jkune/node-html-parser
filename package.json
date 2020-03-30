@@ -1,5 +1,5 @@
 {
-	"name": "node-html-parser-test",
+	"name": "node-html-parser",
 	"version": "1.2.13",
 	"description": "A very fast HTML parser, generating a simplified DOM, with basic element query support.",
 	"main": "dist/index.js",
