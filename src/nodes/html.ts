@@ -584,7 +584,7 @@ const kElementsClosedByClosing = {
 };
 const kBlockTextElements = {
 	script: true,
-	noscript: true,
+	noscript: false,
 	style: true,
 	pre: true
 };
